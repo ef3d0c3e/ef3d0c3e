@@ -1,4 +1,4 @@
 <p align="center">
-    <img src="truth.png" alt="The hard truth">
+    <img src="malloc.png" alt="Compliant malloc">
 
 </p>
